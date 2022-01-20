@@ -1,5 +1,7 @@
 # Gobs O' Goblins for study
 
+[Play game in browser](https://kaishuu0123.github.io/study-gobs-o-goblins/)
+
 ## Scripts
 
 `npm start` Run the app local with webpack dev server on port 8080.
