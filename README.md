@@ -15,6 +15,8 @@
 ## Reference
 
 * [luetkemj/jsrlt: Javascript Roguelike Tutorial](https://github.com/luetkemj/jsrlt)
+  * refs part12, part 13
+    * [dcazrael/jsrlt: Javascript Roguelike Tutorial](https://github.com/dcazrael/jsrlt)
 * [luetkemj/gobs-o-goblins](https://github.com/luetkemj/gobs-o-goblins)
 * [dcazrael/jsRogueLike](https://github.com/dcazrael/jsRogueLike)
 * [ddmills/geotic: Entity Component System library for javascript](https://github.com/ddmills/geotic)
